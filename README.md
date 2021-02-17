@@ -9,8 +9,14 @@ We adapt it from https://github.com/nabsabraham/focal-tversky-unet/blob/master/l
 
 ## Package versions
 tf: 2.4.1
+
 np: 1.19.5
+
 pd: 1.1.5
+
 seaborn: 0.11.1
+
 cv2: 4.1.2
+
 sklearn: 0.22.2.post1
+
