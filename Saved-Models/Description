@@ -1,1 +1,5 @@
+This folder holds saved models in json format.
 
+To load pretrained model (instead of retraining it) 
+with open('name-of-model.json', 'r') as json_file:
+    json_savedModel= json_file.read()
