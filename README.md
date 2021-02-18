@@ -7,7 +7,7 @@ https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 ## Focal Tversky loss function
 We adapt it from https://github.com/nabsabraham/focal-tversky-unet/blob/master/losses.py
 
-## Package versions
+## Package version
 tf: 2.4.1
 
 np: 1.19.5
