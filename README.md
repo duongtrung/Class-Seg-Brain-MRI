@@ -1,5 +1,7 @@
 ## General
-This repository consists of additional materials for the paper submitted to the Sixth International Conference on Research in Intelligent Computing in Engineering (RICE-2021) https://riceconference.in/
+This repository consists of additional materials for the paper accepted to the Sixth International Conference on Research in Intelligent Computing in Engineering (RICE-2021) https://riceconference.in/
+
+Nghia Duong-Trung, Dung Ngoc Le Ha, Hiep Xuan Huynh (2021). Classification-Segmentation Pipeline for MRI via Transfer Learning and Residual Networks. The 6th International Conference on Research in Intelligent Computing in Engineering (RICE 2021). Springer LNEE. June 3-4, 2021.  Binh Duong, Vietnam.
 
 ## Dataset
 https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
